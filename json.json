@@ -1,0 +1,16 @@
+{
+    "propiedades":[
+      {"id":1, "titulo":"Las Rosas", "localidad":"La Falda", "estado":"Alquiler", "precio":80000, "baños":2, "imagen":"./imgenes/casa2.jpg", "tipoPropiedad" : "Casa"},
+      {"id":2, "titulo":"Villa Eden", "localidad":"Huerta Grande", "estado":"Venta", "precio":150000, "baños":1, "imagen":"./imgenes/casa3.jpg", "tipoPropiedad" : "Casa"},
+      {"id":3, "titulo":"Los Cocos", "localidad":"La Cumbre", "estado":"Alquiler", "precio":14000, "baños":1, "imagen":"./imgenes/casa4.jpg", "tipoPropiedad" : "Departamento"},
+      {"id":4, "titulo":"Isolina", "localidad":"La Cumbre", "estado":"Alquiler", "precio":21000, "baños":3, "imagen":"./imgenes/casa5.jpg", "tipoPropiedad" : "Departamento"},
+      {"id":5, "titulo":"Monte de Oro", "localidad":"Huerta Grande", "estado":"Venta", "precio":92000, "baños":2, "imagen":"./imgenes/casa1.jpg", "tipoPropiedad" : "Casa"},
+      {"id":6, "titulo":"Altos del Gigante", "localidad":"Huerta Grande", "estado":"Venta", "precio":15000, "baños":1, "imagen":"./imgenes/casa6.jpg", "tipoPropiedad" : "Departamento"},
+      {"id":7, "titulo":"Belin", "localidad":"La Falda", "estado":"Venta", "precio":16000, "baños":1, "imagen":"./imgenes/casa7.png", "tipoPropiedad" : "Departamento"},
+      {"id":8, "titulo":"Los caminos de Roma", "localidad":"La Falda", "estado":"Alquiler", "precio":21000, "baños":3, "imagen":"./imgenes/casa8.png", "tipoPropiedad" : "Departamento"},
+      {"id":9, "titulo":"Posadas", "localidad":"La Cumbre", "estado":"Alquiler", "precio":75000, "baños":2, "imagen":"./imgenes/casa9.png", "tipoPropiedad" : "Casa"},
+      {"id":10, "titulo":"Los Sauces", "localidad":"Huerta Grande", "estado":"Venta", "precio":76500, "baños":1, "imagen":"./imgenes/casa4.jpg", "tipoPropiedad" : "Casa"},
+      {"id":11, "titulo":"Coworking para Devs", "localidad":"La Falda", "estado":"Alquiler", "precio":25000, "baños":3, "imagen":"./imgenes/casa5.jpg", "tipoPropiedad" : "Departamento"},
+      {"id":12, "titulo":"Puerto de Sevilla", "localidad":"La Cumbre", "estado":"Venta", "precio":97000, "baños":2, "imagen":"./imgenes/casa9.png", "tipoPropiedad" : "Casa"}
+    ]
+}

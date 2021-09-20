@@ -1,0 +1,177 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  
+}
+
+header {
+  background-image: url(./Imgenes/header.jpg);
+  background-size: cover;
+  height: 100vh;
+  padding-top: 20px;
+}
+
+.imgLogo {
+  width: 20em;
+}
+
+
+.tituloInicio {
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+}
+
+.editandoTitulo {
+  font-size: 2rem;
+  padding-top: 13em;
+}
+
+.contenedorBuscar {
+  background-color: #121212;
+  height: 42vh;
+  margin-bottom: 50px;
+}
+
+.contenedortituloBuscar {
+ padding-top: 4em;
+  padding-bottom: 2em;
+}
+
+.editandotituloBuscar {
+  color: #ffffff;
+  text-align: center;
+  font-size: "Montserrat", sans-serif;
+
+}
+.contenedorSelect {
+  text-align: center;
+}
+
+
+.contenedorBoton{
+padding-top: 40px;
+}
+
+button.btn.lost {
+  background-color: #242424;
+  border: 1px solid #242424;
+  color: rgb(255, 255, 255);
+  border-radius: 20px;
+}
+
+.button#botonBuscar.boton {
+  background-color: #242424 !important;
+  border: 1px solid #242424;
+  color: #fff;
+  border-radius: 5px;
+  padding:  20px 20px 20px 20px;
+  width: 80%;
+
+}
+.boton {
+  background-color: #242424 !important;
+
+  color: #ffffff;
+  border: none;
+  border-radius: 20px;
+  padding: 8px 18px 8px 18px;
+}
+
+
+.editandoSelect{
+  text-decoration: none;
+  border: none;
+  color:#121212;
+  padding: 6px 15px 6px 15px;  
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.712);
+
+  
+}
+
+.aplicandoDOMcss{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+
+.callToAction{
+  background-image: url(./Imgenes/encuentra.jpg);
+  background-size: cover;
+  height: 40vh;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.callToActionTitulo{
+  color: #ffffff;
+  margin: 50px 0 50px 0;
+}
+
+
+footer{
+    background-color: #121212;
+}
+
+.piedePagina{
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+    padding: 10px 0 10px 0;
+}
+
+
+/*Boton para Jquery*/
+
+.btn.colorOscuro {
+  background-color: #242424;
+  border: 1px solid #242424;
+  color: #fff;
+  border-radius: 20px;
+
+}
+.btn.colorTransparente{ /*found*/
+  background-color: #ffffffa4 !important;
+  border: 1px solid #41414163;
+  color: #242424 !important;
+  border-radius: 20px;
+}
+
+.sectionFormulario{
+  height: 60vh;
+  background-color: #121212;
+  text-align: center;
+  padding-bottom: 50px;
+ 
+}
+
+.divFormulario{
+  margin: 0px 0 50px 0;
+  display: flex;
+  display: inline-flex;
+}
+.editandoSelect__edit{
+  margin-right: 20px;
+  text-decoration: none;
+  border: none;
+  color:#121212;
+  padding: 3px 4px 3px 4px;  
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 0.712);
+height: 40px;
+}
+
+
+
+.tituloFormulario{
+  color:#ffffff ;
+  padding: 30px 0 30px 0;
+}
+
+.botonform{
+  height: 40px;
+}
+
